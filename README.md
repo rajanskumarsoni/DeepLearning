@@ -64,6 +64,12 @@ INEMBED layer is 20 x 50 x 256)
 character alignments.
    * Observed the effect of using 2-layered decoder as compared to single decoder.
    * Observed the effect of using dropout.
+   
+  <object data="https://github.com/rajanskumarsoni/DeepLearning/blob/master/CS18S038_PA3/main.pdf" width="700px" height="700px">
+    <embed src="https://github.com/rajanskumarsoni/DeepLearning/blob/master/CS18S038_PA3/main.pdf">
+   <p><b>Note:</b> For more detailed analysis of each observation and inferernce drawn from it, Please have a look at full report  <a href="https://github.com/rajanskumarsoni/DeepLearning/blob/master/CS18S038_PA3/main.pdf">Click here</a>.</p>
+    </embed>
+   </object>
 
 
 
