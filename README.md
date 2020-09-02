@@ -59,7 +59,7 @@ data of the model that performs best on the validation data.)
 INEMBED layer is 20 x 50 x 256)
    * Observing the effect of unidirectional LSTM for the encoder. 
    * Explaining the attention mechanism we used with equations.
-   * Observed the effect of using attention mechanism? [2 marks]
+   * Observed the effect of using attention mechanism.
    * Observed the visualization of the attention layer weights for a sequence pair. Tried to see meaningful
 character alignments.
    * Observed the effect of using 2-layered decoder as compared to single decoder.
