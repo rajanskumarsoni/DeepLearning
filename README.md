@@ -31,7 +31,7 @@ which excite some neurons.
     </embed>
    </object>
    
-## cs18s038_PA3 Course Project
+## cs18s038_PA3 Course Project ##
 <b> Task: </b> The aim of this project is to train and test a Recurrent Neural Network (LSTM) for text
 transliteration from English to Hindi.
 In this project sequence to sequence networks is implemented. We will work with
