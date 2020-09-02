@@ -30,3 +30,14 @@ which excite some neurons.
    <p><b>Note:</b> For more detailed analysis of each observation and inferernce drawn from it, Please have a look at full report  <a href="https://github.com/rajanskumarsoni/DeepLearning/blob/master/CS18S038_PA2/report.pdf">Click here</a>.</p>
     </embed>
    </object>
+   
+## cs18s038_PA3 Course Project
+<b> Task: </b> The aim of this project is to train and test a Recurrent Neural Network (LSTM) for text
+transliteration from English to Hindi.
+In this project sequence to sequence networks is implemented. We will work with
+transliteration as an example of a sequence to sequence task.
+The goal of transliteration is to write a word in one language using the closest corresponding
+letters of a different alphabet or language. More formally, the goal of transliteration is to transform
+a name (a string of characters) in one language (and corresponding script) to the target language
+(and corresponding script) while ensuring phonemic equivalence (preserving and conforming to the
+phonology) and conventions of the target language.
