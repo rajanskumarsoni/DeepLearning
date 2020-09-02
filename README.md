@@ -46,4 +46,24 @@ a name (a string of characters) in one language (and corresponding script) to th
 phonology) and conventions of the target language.
 
 <b> Architecture comprise</b> Encoder-Decoder with attention, Dropout, early stopping, tanh non-linearity.
+Project competition was hosted on https://www.kaggle.com/c/programming-assignment-3/leaderboard .
+
+Experiment involves maximising the accuraccy and following deliverables
+
+   * A plot of the learning curve showing iterations on the x-axis and negative log likelihood over
+labels on the y-axis. Making a single plot showing both the training loss and the validation loss.
+   * Reporting the parameter setting which gave the best results and the performance on the test
+data of the model that performs best on the validation data.)
+   * Reported a table with validation accuracies with different hyperparameter settings.
+   * Wrote down the dimensions of the input and output at each layer (for example, the input to
+INEMBED layer is 20 x 50 x 256)
+   * Observing the effect of unidirectional LSTM for the encoder. 
+   * Explaining the attention mechanism we used with equations.
+   * Observed the effect of using attention mechanism? [2 marks]
+   * Observed the visualization of the attention layer weights for a sequence pair. Tried to see meaningful
+character alignments.
+   * Observed the effect of using 2-layered decoder as compared to single decoder.
+   * Observed the effect of using dropout.
+
+
 
