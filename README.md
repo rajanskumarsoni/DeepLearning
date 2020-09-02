@@ -45,5 +45,5 @@ a name (a string of characters) in one language (and corresponding script) to th
 (and corresponding script) while ensuring phonemic equivalence (preserving and conforming to the
 phonology) and conventions of the target language.
 
-<b> Architecture comprise</b> Encoder-Decoder with attention.
+<b> Architecture comprise</b> Encoder-Decoder with attention, Dropout, early stopping, tanh non-linearity.
 
