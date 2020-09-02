@@ -25,3 +25,8 @@ patterns?
     * Apply guided back propagation on any 10 neurons in the Conv6 layer and plot the
 images which excite this neuron. The idea again is to discover interesting patterns
 which excite some neurons.
+      <object data="https://github.com/rajanskumarsoni/DeepLearning/blob/master/CS18S038_PA2/report.pdf" width="700px" height="700px">
+    <embed src="https://github.com/rajanskumarsoni/DeepLearning/blob/master/CS18S038_PA2/report.pdf">
+   <p><b>Note:</b> For more detailed analysis of each observation and inferernce drawn from it, Please have a look at full report  <a href="https://github.com/rajanskumarsoni/DeepLearning/blob/master/CS18S038_PA2/report.pdf">Click here</a>.</p>
+    </embed>
+   </object>
